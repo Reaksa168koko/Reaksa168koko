@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Sey chanreaksa (ReaksaCoding)
+## 👋 Hi there, I'm Sey Chanreaksa (ReaksaCoding)
 
 💻 Full-Stack Web Developer | 👨‍🏫 Web Development Instructor  
 🚀 Passionate about building real-world systems, dashboards & APIs
